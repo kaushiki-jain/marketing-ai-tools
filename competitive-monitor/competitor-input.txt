@@ -1,0 +1,99 @@
+# Competitor Messaging Research — T&E Management Market
+
+## Expensify
+Tagline: "Expense reports that don't suck"
+Value proposition: The easiest way to manage expenses.
+Expensify automates expense reports, receipt scanning,
+and reimbursements for businesses of all sizes.
+Key messages:
+- Receipt scanning in one click with SmartScan
+- Automatic expense report creation
+- Fast reimbursements — next day ACH
+- Free for individuals, simple pricing for teams
+- Loved by employees, not just finance teams
+Tone: Casual, irreverent, employee-first
+Target audience: SMBs, startups, individual employees
+Pricing message: Simple, transparent, affordable
+What they emphasise: Speed, simplicity, employee experience
+Notable: Very strong brand voice, anti-corporate tone
+
+## Navan (formerly TripActions)
+Tagline: "The only integrated travel and expense solution"
+Value proposition: Navan combines travel booking,
+expense management, and corporate cards in one platform.
+Real-time visibility into every dollar spent.
+Key messages:
+- All-in-one travel and expense platform
+- Real-time spend visibility for finance teams
+- Modern UI employees actually want to use
+- Significant savings on travel spend
+- 24/7 travel support included
+Tone: Modern, confident, growth-focused
+Target audience: Mid-market and enterprise,
+  finance and travel managers
+Pricing message: ROI and savings focused
+What they emphasise: Integration of travel and expense,
+  modern experience, real-time data
+Notable: Strong on UI/UX messaging,
+  positions legacy tools as outdated
+
+## Ramp
+Tagline: "The finance automation platform"
+Value proposition: Ramp helps businesses spend less
+and close their books faster with corporate cards,
+expense management, bill payments, and accounting
+automation — all in one platform.
+Key messages:
+- Save an average of 5% on company spending
+- Close the books 8x faster
+- Finance automation not just expense management
+- Real-time spend controls
+- Integrates with every major accounting tool
+Tone: Data-driven, confident, CFO-focused
+Target audience: Finance teams, CFOs, fast-growing companies
+Pricing message: Free to use — makes money on interchange
+What they emphasise: Savings, speed, automation,
+  financial intelligence
+Notable: Very strong on proof points and specific claims,
+  positions as intelligence platform not just expense tool
+
+## Coupa
+Tagline: "The business spend management platform"
+Value proposition: Coupa provides a unified platform
+for business spend management — procurement, invoicing,
+expenses, and payments — giving CFOs total visibility
+and control over company spend.
+Key messages:
+- Total spend visibility across the entire organisation
+- AI-powered spend intelligence
+- Strong compliance and audit capabilities
+- Enterprise-grade security and controls
+- Community intelligence from $6 trillion in spend data
+Tone: Enterprise, authoritative, data-heavy
+Target audience: Large enterprises, CFOs, procurement teams
+Pricing message: Enterprise pricing, ROI focused
+What they emphasise: Total spend management,
+  AI intelligence, compliance
+Notable: Closest to SAP Concur in enterprise positioning,
+  very strong on data and AI narrative
+
+## Zoho Expense
+Tagline: "Smart expense reporting software"
+Value proposition: Automate your expense reporting
+process end to end. From receipt scanning to
+reimbursements, Zoho Expense handles it all at
+a price that works for every business.
+Key messages:
+- Affordable for every business size
+- Part of the Zoho ecosystem
+- Easy to use, quick to implement
+- Multi-currency and multi-entity support
+- Strong mobile app
+Tone: Friendly, accessible, value-focused
+Target audience: SMBs and mid-market,
+  cost-conscious buyers
+Pricing message: Very affordable, clear tiers
+What they emphasise: Value for money, ease of use,
+  ecosystem integration
+Notable: Competes on price,
+  not trying to win on enterprise features
