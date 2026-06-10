@@ -1,0 +1,136 @@
+==================================================
+1. POSITIONING STATEMENT
+==================================================
+
+For Irish SaaS companies expanding into EU and US markets, Stripe Tax automatically calculates, collects, and reports sales tax and VAT across every jurisdiction you sell into. Unlike manual processes or standalone tax tools, Stripe Tax runs natively inside your existing Stripe integration — no code changes, no third-party reconciliation, and tax rules that update automatically as laws change.
+
+==================================================
+2. MESSAGING PILLARS
+==================================================
+
+Pillar 1: Built-In Compliance
+- Tax calculation and collection happen directly in your existing payment flow.
+- Proof point: No code changes required to activate Stripe Tax.
+
+Pillar 2: Always Current
+- Tax rates and rules update automatically as regulations change across jurisdictions.
+- Proof point: Real-time compliance updates with no manual rate management.
+
+Pillar 3: One System, No Reconciliation
+- Replace standalone tax tools and manual spreadsheets with a single source of truth.
+- Proof point: Tax data lives alongside payment data — ready for filing reports.
+
+==================================================
+3. PERSONA MESSAGING
+==================================================
+
+--- TECHNICAL BUYER (Developer / CTO) ---
+
+Headline: Tax compliance with zero code changes
+
+Supporting points:
+- Activate Stripe Tax directly within your existing Stripe integration — no new APIs to learn.
+- Automatic registration tracking and rate updates remove ongoing maintenance work.
+
+CTA: Read the integration docs
+
+--- BUSINESS BUYER (Founder / CFO / Head of Growth) ---
+
+Headline: Expand to EU and US without tax risk
+
+Supporting points:
+- Automate VAT and sales tax across every market you enter, reducing compliance overhead.
+- Generate filing-ready reports, cutting time spent on manual reconciliation.
+
+CTA: Talk to our team about EU and US expansion
+
+==================================================
+4. LAUNCH EMAIL TO EXISTING CUSTOMERS
+==================================================
+
+Subject line: Tax compliance, built into Stripe
+
+Preview text: Calculate, collect, and report tax automatically — no code changes needed.
+
+Email body:
+Scaling into new markets brings new tax obligations — and keeping up with VAT and sales tax rules across jurisdictions can slow your growth.
+
+Stripe Tax is now built directly into your payment flow. It automatically calculates and collects the correct tax on every transaction, tracks where you need to register, and generates reports ready for filing — all without changing your existing integration.
+
+As tax laws change, Stripe Tax updates automatically, so you stay compliant without the manual work.
+
+If you're expanding into the EU or US, now is the time to turn it on.
+
+CTA: Enable Stripe Tax in your Dashboard
+
+==================================================
+5. INTERNAL SALES ENABLEMENT ONE-PAGER
+==================================================
+
+Product Overview:
+Stripe Tax automatically calculates, collects, and reports VAT and sales tax across multiple jurisdictions, working natively within existing Stripe integrations. It removes the need for manual tax management or standalone tax software as companies scale internationally.
+
+Top 3 Customer Pain Points Solved:
+1. Manually tracking VAT and sales tax rates across multiple countries.
+2. Managing tax registration thresholds as the business grows into new markets.
+3. Reconciling tax data between payment systems and separate tax tools.
+
+Top 3 Benefits with Proof Points:
+1. No code changes — activates within existing Stripe integration.
+2. Automatic rate updates — stays current as tax laws change in real time.
+3. Unified reporting — tax data sits alongside payment data for easy filing.
+
+Competitive Differentiators:
+- vs Adyen: Native to the payment flow rather than a bolt-on compliance layer.
+- vs Braintree: No need for a separate third-party tax integration or reconciliation step.
+- vs PayPal: Provides multi-jurisdiction registration tracking and filing-ready reports, not just basic tax collection.
+
+Objection Handling:
+
+Objection: "We already use a separate tax tool."
+Response: Stripe Tax removes the reconciliation step between your payment and tax systems entirely, since both run on the same platform.
+
+Objection: "We're not sure if we need to register in new jurisdictions yet."
+Response: Stripe Tax monitors your transaction volumes and flags where registration thresholds are approaching, so you're never caught off guard.
+
+Objection: "Switching tax systems sounds like a big project."
+Response: Stripe Tax requires no code changes — it activates within your current Stripe integration, so there's no migration project.
+
+Suggested Demo Talking Points:
+- Show tax calculation happening automatically at checkout, no extra setup.
+- Walk through the registration tracking dashboard for EU and US thresholds.
+- Demonstrate exporting a filing-ready tax report.
+
+==================================================
+6. AD HEADLINE VARIATIONS
+==================================================
+
+1. Tax compliance, built into your payments (Business Buyer, benefit-led)
+2. Stop reconciling tax across systems (Technical Buyer, pain-point led)
+3. VAT compliance that updates itself (Business Buyer, benefit-led)
+4. Add tax compliance with no code (Technical Buyer, benefit-led)
+5. Expanding to the EU? Get tax right (Business Buyer, pain-point led)
+
+==================================================
+7. SUGGESTED LAUNCH TIMELINE
+==================================================
+
+Week minus 2 (Internal Prep):
+- Finalise messaging and persona content with marketing and sales teams.
+- Brief sales team using the enablement one-pager.
+- Prepare Dashboard walkthroughs and demo environment.
+
+Week minus 1 (Pre-Launch):
+- Send teaser content to Dublin SaaS community channels.
+- Schedule launch email to existing customers.
+- Finalise ad creative and targeting for technical and business buyer segments.
+
+Launch Week (Go-Live):
+- Publish positioning and messaging across website and product pages.
+- Send launch email to existing customers.
+- Launch ad campaigns targeting Dublin SaaS companies.
+
+Week plus 1 (Post-Launch):
+- Monitor activation rates and gather customer feedback.
+- Follow up with sales-qualified leads from ad campaigns.
+- Publish a customer case study or early results recap.

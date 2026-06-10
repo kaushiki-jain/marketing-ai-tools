@@ -1,0 +1,14 @@
+Product: Stripe Tax
+What it does: Stripe Tax automatically calculates and collects
+the correct amount of tax on transactions, handles tax
+registration across multiple countries, and generates reports
+for filing. It works directly within existing Stripe
+integrations with no code changes required.
+Who it is for: Irish SaaS companies scaling into EU and US
+markets who are struggling with VAT and sales tax compliance
+across multiple jurisdictions.
+Key differentiator: Unlike manual tax calculation or standalone
+tax tools, Stripe Tax is built directly into the payment flow —
+no third party integrations, no reconciliation headaches,
+real-time compliance updates as tax laws change.
+Launch date: Q3 2026 campaign targeting Dublin SaaS companies
